@@ -1,9 +1,5 @@
 Hi 👋 My name is Emmanuel Perez
 ===============================
-
-Frontend Web Developer
--------------
-
 * 🌍  I'm based in Montreal, QC
 * ✉️  You can contact me at [zzerep.88@gmail.com](mailto:zzerep.88@gmail.com)
 
@@ -19,7 +15,6 @@ Frontend Web Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
 
 ### Socials
 
