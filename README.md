@@ -1,6 +1,6 @@
 Hi 👋 My name is Emmanuel Perez
 ===============================
-* 🌍  I'm based in Montreal, QC
+* 🌍  I'm a front-end web developer based in Montreal, QC
 * ✉️  You can reach me on [Linkedin](https://www.linkedin.com/in/perez393/)
 
 <h2> Skills </h2>
