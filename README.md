@@ -1,7 +1,7 @@
 Hi 👋 My name is Emmanuel Perez
 ===============================
 * 🌍  I'm based in Montreal, QC
-* ✉️  You can contact me at [zzerep.88@gmail.com](mailto:zzerep.88@gmail.com)
+* ✉️  You can reach me on [Linkedin](https://www.linkedin.com/in/perez393/)
 
 ### Skills
 <p align="left">
