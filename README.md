@@ -15,6 +15,7 @@ Hi 👋 My name is Emmanuel Perez
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<h2> My GitHub Stats </h2>
+<!-- <h2> My GitHub Stats </h2>
 
 <a href="http://www.github.com/Rezz88"><img src="https://github-readme-stats.vercel.app/api?username=Rezz88&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="Rezz88's GitHub stats" /></a>
+ -->
